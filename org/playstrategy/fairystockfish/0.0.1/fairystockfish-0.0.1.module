@@ -19,7 +19,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 11,
+        "org.gradle.jvm.version": 14,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-api"
       },
@@ -36,11 +36,11 @@
         {
           "name": "fairystockfish-0.0.1.jar",
           "url": "fairystockfish-0.0.1.jar",
-          "size": 16874,
-          "sha512": "d0498483d7537a3cf0e0e4d2e2c4ab13a9ca16883eb3372fb1dea37991c581a3ce13b45986b02b694a01765da1815953b969d4d29868dcaeb5c3e805a443601b",
-          "sha256": "6ea60a4ba2eb65ebde2939580f621d8c760660a4bbdbf9f8d7cec3de016270a6",
-          "sha1": "bb2c93dcbe08f13914d6346b82f98c8a5283cf2b",
-          "md5": "5b8f5255239bab65a3c396ed3bfe5b8c"
+          "size": 16942,
+          "sha512": "322e27f1931890f082973e64901aa5b7148ce14dd5958b6003800981e35a23c71f121a5e043fa9ff58215abbec4f830b8bffda2b8cca747196428642da817e82",
+          "sha256": "de1decf483ad18448f7fb0282ecdcdbc7fa4c844f0ad6c0ad1cc7fff6d3a34c0",
+          "sha1": "b727c717a20138f7df6aca3c9be17a9cb0ef7486",
+          "md5": "f4b3e319c6d34dff4e1ab456b828a92f"
         }
       ]
     },
@@ -49,7 +49,7 @@
       "attributes": {
         "org.gradle.category": "library",
         "org.gradle.dependency.bundling": "external",
-        "org.gradle.jvm.version": 11,
+        "org.gradle.jvm.version": 14,
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
@@ -66,11 +66,11 @@
         {
           "name": "fairystockfish-0.0.1.jar",
           "url": "fairystockfish-0.0.1.jar",
-          "size": 16874,
-          "sha512": "d0498483d7537a3cf0e0e4d2e2c4ab13a9ca16883eb3372fb1dea37991c581a3ce13b45986b02b694a01765da1815953b969d4d29868dcaeb5c3e805a443601b",
-          "sha256": "6ea60a4ba2eb65ebde2939580f621d8c760660a4bbdbf9f8d7cec3de016270a6",
-          "sha1": "bb2c93dcbe08f13914d6346b82f98c8a5283cf2b",
-          "md5": "5b8f5255239bab65a3c396ed3bfe5b8c"
+          "size": 16942,
+          "sha512": "322e27f1931890f082973e64901aa5b7148ce14dd5958b6003800981e35a23c71f121a5e043fa9ff58215abbec4f830b8bffda2b8cca747196428642da817e82",
+          "sha256": "de1decf483ad18448f7fb0282ecdcdbc7fa4c844f0ad6c0ad1cc7fff6d3a34c0",
+          "sha1": "b727c717a20138f7df6aca3c9be17a9cb0ef7486",
+          "md5": "f4b3e319c6d34dff4e1ab456b828a92f"
         }
       ]
     }
